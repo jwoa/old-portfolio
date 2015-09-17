@@ -13,3 +13,9 @@
   width: 40%;
   margin-left: 10%;
 }
+
+body {
+    background-color: beige;
+    font-family: sans-serif;
+    color: crimson;
+}
