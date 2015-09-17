@@ -1,0 +1,15 @@
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.left {
+  float: left;
+  width: 40%
+}
+ 
+.right {
+  float: left;
+  width: 40%;
+  margin-left: 10%;
+}
