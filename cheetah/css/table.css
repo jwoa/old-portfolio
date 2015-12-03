@@ -1,0 +1,12 @@
+table {
+    width: 400px;
+}
+
+tr {
+    border-top: 1px solid #DDD;
+    border-bottom: 1px solid #DDD;
+}
+
+td {
+    padding: 10px;
+}
