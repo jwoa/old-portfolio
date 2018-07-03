@@ -101,7 +101,7 @@ button {
 .title_heavy {
     font-family: 'Gotham', sans-serif;
     font-weight: 300;
-    text-align: center;
+    text-align: left;
     width: 80%;
 }
 
@@ -113,7 +113,7 @@ button {
 
 
 .col-sm-12 {
-    text-align: center;
+    text-align: left;
 }
 
 /* MOBILE FRIENDLY */
